@@ -12,10 +12,8 @@
 [лабораторна робота №4](https://github.com/vladikstrilnik/lab221/tree/63c8a195c5d285069a15c2318c79a69ce069c394/lab4)
 
 №8. Основи роботи з HTTP
-[лабораторна робота №8]
-(https://github.com/vladikstrilnik/lab221/tree/63c8a195c5d285069a15c2318c79a69ce069c394/lab8)
+[лабораторна робота №8](https://github.com/vladikstrilnik/lab221/tree/63c8a195c5d285069a15c2318c79a69ce069c394/lab8)
 
 №9. Основи роботи з HTTP API
-[лабораторна робота №9]
-(https://github.com/vladikstrilnik/lab221/tree/63c8a195c5d285069a15c2318c79a69ce069c394/lab9)
+[лабораторна робота №9](https://github.com/vladikstrilnik/lab221/tree/63c8a195c5d285069a15c2318c79a69ce069c394/lab9)
 
