@@ -24,5 +24,5 @@
 
 # Мої лабораторні
 
-- [Лабораторна робота №1](lab1.md)(https://github.com/vladikstrilnik/lab221/blob/f0a45c3f5365c631bd62be05f8afe87ccfe4e760/lab1/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-19%20021946.png)
+- [Лабораторна робота №1](lab1.mdhttps://github.com/vladikstrilnik/lab221/blob/f0a45c3f5365c631bd62be05f8afe87ccfe4e760/lab1/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-19%20021946.png)
 - [Лабораторна робота №2](lab2.md)
