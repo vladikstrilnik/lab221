@@ -1,1 +1,2 @@
-[![Cat](https://raw.githubusercontent.com/username/repo/main/images/cat.jpg)](https://raw.githubusercontent.com/username/repo/main/images/cat.jpg)
+
+[лабораторна робота №1](https://github.com/vladikstrilnik/lab221/tree/main)
