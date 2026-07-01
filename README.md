@@ -1,4 +1,4 @@
-#MyPhotos/
+MyPhotos/
 │
 ├── README.md
 └── images/
