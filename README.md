@@ -10,7 +10,4 @@
 [лабораторна робота №8](https://github.com/vladikstrilnik/lab221/tree/63c8a195c5d285069a15c2318c79a69ce069c394/lab8)
 №9. Основи роботи з HTTP API
 [лабораторна робота №9](https://github.com/vladikstrilnik/lab221/tree/63c8a195c5d285069a15c2318c79a69ce069c394/lab9)
-<h1>Лабораторна 1</h1>
-<img src="photo1.jpg" width="300">
-<img src="photo2.jpg" width="300">
-<img src="photo3.jpg" width="300">
+
